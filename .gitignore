@@ -1,0 +1,7 @@
+# enviroment file
+.env
+
+# node
+
+ethereum/node_modules/
+ethereum/node_modules/*
